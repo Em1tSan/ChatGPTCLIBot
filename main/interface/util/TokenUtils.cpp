@@ -91,7 +91,9 @@ namespace util {
                 //Chat completion models:
                 {"gpt-4-32k", 32767},
                 {"gpt-4", 8191},
+                {"gpt-4-1106-preview", 128000},
                 {"gpt-3.5-turbo-16k", 16383},
+                {"gpt-3.5-turbo-1106", 16383},
                 {"gpt-3.5-turbo", 4095},
                 //Text completion models:
                 {"text-davinci-003", 4095},
